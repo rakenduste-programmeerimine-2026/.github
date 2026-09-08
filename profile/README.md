@@ -1,6 +1,9 @@
 ## IFI6229.DT Application Programming (Rakenduste programmeerimine)
 
+Lecturer: **Raimo Pregel**
 
+Class: **Every Thursday 12:15-15:45**
+<br/>
 <div align="center">
   
 | Kuupäev | Aeg | Klassiruum |
