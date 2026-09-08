@@ -1,8 +1,17 @@
 ## IFI6229.DT Application Programming (Rakenduste programmeerimine)
 
-Lecturer: **Raimo Pregel**
+**Lecturer**: Raimo Pregel
 
-Class: **Every Thursday 12:15-15:45**
+**Class**: Every Thursday 12:15-15:45
+
+**Google Classroom**: https://classroom.google.com/c/MTYyNjcwNDM4Mjk0?cjc=2tw5wxeh
+
+**Discord**: https://discord.gg/e4Qgnupa
+
+<br/>
+<div align="center">
+  <h2><b>Schedule</b></h2>
+</div>
 <br/>
 <div align="center">
   
